@@ -336,10 +336,9 @@ li {
   font-style: normal;
   font-weight: 700;
   line-height: 44px;
-  letter-spacing: 0em;
+  letter-spacing: 0;
   text-align: center;
 }
-
 
 .contact .form {
   margin: 58px 0 124px 0;
@@ -385,8 +384,4 @@ li {
 
 .contact .social {
   justify-content: space-around;
-}
-
-.contact .social-icon {
-  fill: #505F79;
 }
