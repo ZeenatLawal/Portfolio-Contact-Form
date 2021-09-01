@@ -1,5 +1,29 @@
-# curriculum-cr-training-contact-form
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This repo host an initial code for the tasks performed during the Code Reviewers training.
+# Portfolio-Contact-Form
 
-Application is based on this [Figma design](https://www.figma.com/file/t3EJUCAEViw3QasuJLPLVT/Microverse-Student-Potfolio-Templates-Main?node-id=1%3A1471).
+> Created for code reviewer training trials
+
+## Built With
+
+- HTML
+- CSS
+- Linter
+
+## Author
+
+👤 **Zeenat Lawal**
+
+- GitHub: [@ZeenatLawal](https://github.com/ZeenatLawal)
+- Twitter: [@lawal_zeenat](https://twitter.com/lawal_zeenat)
+- LinkedIn: [Zeenat Lawal](https://www.linkedin.com/in/zeenatlawal/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
